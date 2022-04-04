@@ -1,0 +1,28 @@
+body {
+    background-color: #FFC0CB;
+}
+h1 {
+    color: rgb(207, 74, 207);
+  }
+  h2 {
+    color: lightblue;
+  }
+    p {
+      font-size: 18px;
+      font-family: 'Times New Roman', Times, serif;
+    }
+    img{ 
+        border-color:black;
+        border-width: 14px;
+        border-style: solid;
+      }
+      li {
+        list-style-type: circle;
+      }
+      ol {
+        background: grey;
+        padding: 29px;
+      }
+      a:hover {
+        color: hotpink ;
+      }
